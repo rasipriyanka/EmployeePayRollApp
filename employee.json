@@ -1,0 +1,14 @@
+{
+  "employees": [
+    {
+      "id": 13,
+      "name": "Nibedita",
+      "picture": "../assets/profile-images/Ellipse -7.png",
+      "gender": "female",
+      "department": ",Engineer",
+      "salary": "74900",
+      "note": "",
+      "startDate": "2022-01-04T18:30:00.000Z"
+}
+]}
+ 
